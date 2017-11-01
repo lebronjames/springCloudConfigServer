@@ -9,3 +9,5 @@ spring.cloud.config.server.git.uri=https://gitee.com/lebronjames_kobe
 spring.cloud.config.server.git.searchPaths=config-server
 spring.cloud.config.server.git.username=3162310162@qq.com
 spring.cloud.config.server.git.password=zhipaiwu
+
+访问地址：http://10.5.2.241:7001/
