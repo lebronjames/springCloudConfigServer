@@ -7,5 +7,8 @@ spring:
     config:
       server:
         git:
-          basedir:
+          uri: https://gitee.com/lebronjames_kobe
+          search-paths: config-server
+          username: 3162310162@qq.com
+          password: zhipaiwu
             

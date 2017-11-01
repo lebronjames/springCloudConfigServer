@@ -5,7 +5,7 @@ SpringCloud分布式配置中心springCloudConfigServer
 spring.application.name=config-server
 server.port=7001
 # git管理配置
-spring.cloud.config.server.git.uri=http://git.oschina.net/didispace/SpringBoot-Learning/
-spring.cloud.config.server.git.searchPaths=Chapter9-1-4/config-repo
-spring.cloud.config.server.git.username=username
-spring.cloud.config.server.git.password=password
+spring.cloud.config.server.git.uri=https://gitee.com/lebronjames_kobe
+spring.cloud.config.server.git.searchPaths=config-server
+spring.cloud.config.server.git.username=3162310162@qq.com
+spring.cloud.config.server.git.password=zhipaiwu
